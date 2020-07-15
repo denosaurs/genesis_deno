@@ -1,7 +1,7 @@
 # project_name 
 
 ---
-> ⚠️ This project is a working project. Expect breaking changes.
+> ⚠️ Work in progress. Expect breaking changes.
 ---
 
 Charming description with optional badges.
