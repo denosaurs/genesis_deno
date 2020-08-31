@@ -10,12 +10,12 @@
 
 ---
 
-## other
+## Other
 
-### contribution
+### Contribution
 
 Pull request, issues and feedback are very welcome. Code style is formatted with deno fmt and commit messages are done following Conventional Commits spec.
 
-### licence
+### Licence
 
 Copyright 2020-present, the denosaurs team. All rights reserved. MIT license.
