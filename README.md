@@ -10,7 +10,15 @@
 
 ---
 
+## Maintainers
+
+- Filippo Rossi ([@qu4k](https://github.com/qu4k))
+
 ## Other
+
+### Related
+
+- [link] - description
 
 ### Contribution
 
