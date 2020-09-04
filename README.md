@@ -22,7 +22,7 @@
 
 ### Contribution
 
-Pull request, issues and feedback are very welcome. Code style is formatted with deno fmt and commit messages are done following Conventional Commits spec.
+Pull request, issues and feedback are very welcome. Code style is formatted with `deno fmt` and commit messages are done following Conventional Commits spec.
 
 ### Licence
 
