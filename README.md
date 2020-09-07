@@ -2,6 +2,7 @@
 
 [![Tags](https://img.shields.io/github/release/denosaurs/project_name)](https://github.com/denosaurs/project_name/releases)
 [![CI Status](https://img.shields.io/github/workflow/status/denosaurs/project_name/check)](https://github.com/denosaurs/project_name/actions)
+[![Dependencies](https://img.shields.io/github/workflow/status/denosaurs/project_name/depsbot?label=dependencies)](https://github.com/denosaurs/depsbot)
 [![License](https://img.shields.io/github/license/denosaurs/project_name)](https://github.com/denosaurs/project_name/blob/master/LICENSE)
 
 ---
