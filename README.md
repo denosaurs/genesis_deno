@@ -15,6 +15,12 @@
 
 - Filippo Rossi ([@qu4k](https://github.com/qu4k))
 
+## Permission Table
+
+| Permission Needed | Required | Reason                                |
+| ----------------- | -------- | ------------------------------------- |
+| `--allow-env`     | yes      | Getting information about your shell. |
+
 ## Other
 
 ### Related
